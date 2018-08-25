@@ -12,7 +12,7 @@ Algorithim:
 2)Parse the file name, excluding file extension
 3)Sort,group all files by year, month and day
 4)Calculate a date spread value between files for label processing
-5)Create a human readable date spread lable/title
+5)Create a human readable date spread label/title
 6)Reformat date spread to integer values YY-MON-DD
 7)Get user input for Collection ID(CID) and validate input
 8)Create SID: Append CID to Reformat Date spread
